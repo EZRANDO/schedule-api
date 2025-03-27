@@ -1,1 +1,3 @@
 rootProject.name = 'schedules'
+include 'basic-schedule'
+include 'challenge-schedule'
