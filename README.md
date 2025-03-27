@@ -69,6 +69,10 @@
 | `PUT` | `/schedules/{id}` | 일정 수정 | `{ "password" : "비밀번호", "task" : "업무", "writer" : "작성자" }` | `{ "id" : 1, "password" : "비밀번호", "task" : "업무", "writer" : "작성자" }` | `200 OK` |
 | `DELETE` | `/schedules/{id}` | 일정 삭제 | `{ "password" : "비밀번호" }` | - | `204 No Content` |
 
+---
+
+## 📦 ERD 다이어그램
+![화면 캡처 2025-03-26 212356](https://github.com/user-attachments/assets/88316d37-8fd9-4bc5-958e-37dcd274469e)
 
 ---
 
