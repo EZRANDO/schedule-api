@@ -77,11 +77,9 @@
 
 ## 📦 ERD 다이어그램
 
-연관 관계 설정을 위해 작성자와 일정을 연결하였다.
-![화면 캡처 2025-03-27 135728](https://github.com/user-attachments/assets/886c089c-de70-458a-9f04-e4d3588defbf)
+![화면 캡처 2025-03-27 152417](https://github.com/user-attachments/assets/9cc9def4-35d5-48e2-89cd-e72a27ba16bb)
+
  
-
-
 
 ---
 
