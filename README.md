@@ -59,8 +59,7 @@
 
 ---
 ### 개발 진척도
-- basic은 필수구현 api설계는 완료된 상태이나 jdbc연동은 안된 프로그램입니다.
-- challenge는 필수구현, jdbc연동, 스키마 설계는 되었지만 JdbcTemplateScheduleRepository구현이 완전하지 않습니다.
+- 필수구현, jdbc연동, 스키마 설계가 완료된 상태입니다.
 ---
 
 ## 📦 API 명세 요약
